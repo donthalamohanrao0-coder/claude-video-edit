@@ -1,0 +1,22 @@
+{
+  "name": "edit-1019",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render Edit1019 out/overlay.mp4"
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-telugu": "5.3.0",
+    "@fontsource/poppins": "5.2.7",
+    "@remotion/cli": "4.0.536",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.536",
+    "@remotion/bundler": "4.0.536",
+    "@remotion/renderer": "4.0.536"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

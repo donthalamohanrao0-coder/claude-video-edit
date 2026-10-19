@@ -1,0 +1,114 @@
+{
+ "whoosh": {
+  "file": "clips/whoosh.wav",
+  "category": "transition",
+  "duration_s": 0.7,
+  "desc": "airy whoosh for whip transitions",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "whoosh-soft": {
+  "file": "clips/whoosh-soft.wav",
+  "category": "motion",
+  "duration_s": 0.45,
+  "desc": "short soft air for card slide-ins",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "pop": {
+  "file": "clips/pop.wav",
+  "category": "emphasis",
+  "duration_s": 0.34,
+  "desc": "clean UI pop for chips/cards",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "pop-small": {
+  "file": "clips/pop-small.wav",
+  "category": "emphasis",
+  "duration_s": 0.26,
+  "desc": "smaller higher pop",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "tick": {
+  "file": "clips/tick.wav",
+  "category": "snap",
+  "duration_s": 0.03,
+  "desc": "crisp tick for checks / counters",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "mouse-click": {
+  "file": "clips/mouse-click.wav",
+  "category": "snap",
+  "duration_s": 0.09,
+  "desc": "mouse click (down/up)",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "impact": {
+  "file": "clips/impact.wav",
+  "category": "emphasis",
+  "duration_s": 2.0,
+  "desc": "soft cinematic impact for stamps / punch-ins",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "riser": {
+  "file": "clips/riser.wav",
+  "category": "tension",
+  "duration_s": 1.3,
+  "desc": "short riser into a reveal (cue at riser END)",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "ding": {
+  "file": "clips/ding.wav",
+  "category": "emphasis",
+  "duration_s": 2.2,
+  "desc": "bright bell for positive reveals",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "ping": {
+  "file": "clips/ping.wav",
+  "category": "notification",
+  "duration_s": 0.94,
+  "desc": "message notification ping",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "swipe": {
+  "file": "clips/swipe.wav",
+  "category": "motion",
+  "duration_s": 0.22,
+  "desc": "quick stroke for strike-through / underline",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "unlock": {
+  "file": "clips/unlock.wav",
+  "category": "emphasis",
+  "duration_s": 1.18,
+  "desc": "lock open + reward tone",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "sparkle": {
+  "file": "clips/sparkle.wav",
+  "category": "texture",
+  "duration_s": 1.0,
+  "desc": "confetti sparkle",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ },
+ "shimmer": {
+  "file": "clips/shimmer.wav",
+  "category": "texture",
+  "duration_s": 2.0,
+  "desc": "warm chord swell for the outro card",
+  "source": "procedural (gen_sfx.py)",
+  "license": "original, free to use"
+ }
+}

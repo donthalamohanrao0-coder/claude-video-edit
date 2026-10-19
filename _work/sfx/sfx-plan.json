@@ -1,0 +1,535 @@
+{
+ "voice": "voice.wav",
+ "catalog": "sfx/catalog.json",
+ "total_s": 144.4,
+ "duck": true,
+ "target_lufs": -14,
+ "events": [
+  {
+   "at_s": 1.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "hook card slides in"
+  },
+  {
+   "at_s": 1.33,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "hook item 1"
+  },
+  {
+   "at_s": 4.91,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "hook item 2"
+  },
+  {
+   "at_s": 7.88,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "hook item 3"
+  },
+  {
+   "at_s": 11.9,
+   "sfx_id": "tick",
+   "gain_db": -6,
+   "cue": "hook check 1"
+  },
+  {
+   "at_s": 12.15,
+   "sfx_id": "tick",
+   "gain_db": -6,
+   "cue": "hook check 2"
+  },
+  {
+   "at_s": 12.4,
+   "sfx_id": "tick",
+   "gain_db": -6,
+   "cue": "hook check 3"
+  },
+  {
+   "at_s": 12.7,
+   "sfx_id": "riser",
+   "gain_db": -12,
+   "cue": "build into 'this course is for you'",
+   "optional": true
+  },
+  {
+   "at_s": 14.0,
+   "sfx_id": "impact",
+   "gain_db": -7,
+   "cue": "stamp: THIS COURSE IS FOR YOU"
+  },
+  {
+   "at_s": 15.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "scratch->advanced card"
+  },
+  {
+   "at_s": 16.47,
+   "sfx_id": "swipe",
+   "gain_db": -13,
+   "cue": "progress bar fills"
+  },
+  {
+   "at_s": 21.46,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "concept pill 1"
+  },
+  {
+   "at_s": 22.5,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "concept pill 2"
+  },
+  {
+   "at_s": 25.74,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "concept pill 3"
+  },
+  {
+   "at_s": 27.65,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "advanced card"
+  },
+  {
+   "at_s": 29.22,
+   "sfx_id": "impact",
+   "gain_db": -11,
+   "cue": "ADVANCED highlight + punch-in"
+  },
+  {
+   "at_s": 30.97,
+   "sfx_id": "whoosh",
+   "gain_db": -3,
+   "cue": "whip transition @31.15"
+  },
+  {
+   "at_s": 31.35,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -10,
+   "cue": "name lower third"
+  },
+  {
+   "at_s": 32.72,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "1.5 yrs card"
+  },
+  {
+   "at_s": 35.16,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "20+ card"
+  },
+  {
+   "at_s": 35.28,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 35.41,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 35.54,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 35.67,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 35.8,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 35.93,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 36.06,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 36.19,
+   "sfx_id": "tick",
+   "gain_db": -10,
+   "cue": "20+ count-up",
+   "optional": true
+  },
+  {
+   "at_s": 37.44,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "country chip 1"
+  },
+  {
+   "at_s": 37.56,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "country chip 2"
+  },
+  {
+   "at_s": 37.68,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "country chip 3"
+  },
+  {
+   "at_s": 39.85,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "100s tutorials card"
+  },
+  {
+   "at_s": 42.57,
+   "sfx_id": "whoosh",
+   "gain_db": -3,
+   "cue": "whip transition @42.75"
+  },
+  {
+   "at_s": 43.42,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "practical knowledge card"
+  },
+  {
+   "at_s": 48.0,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "7 hours card"
+  },
+  {
+   "at_s": 48.16,
+   "sfx_id": "impact",
+   "gain_db": -10,
+   "cue": "7-HOUR punch-in"
+  },
+  {
+   "at_s": 55.5,
+   "sfx_id": "impact",
+   "gain_db": -7,
+   "cue": "stamp: 100% FREE"
+  },
+  {
+   "at_s": 55.55,
+   "sfx_id": "ding",
+   "gain_db": -16,
+   "cue": "FREE sparkle"
+  },
+  {
+   "at_s": 58.6,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "price card"
+  },
+  {
+   "at_s": 60.31,
+   "sfx_id": "swipe",
+   "gain_db": -10,
+   "cue": "strike-through Rs 1000s"
+  },
+  {
+   "at_s": 61.95,
+   "sfx_id": "ding",
+   "gain_db": -14,
+   "cue": "FREE on our channel"
+  },
+  {
+   "at_s": 63.32,
+   "sfx_id": "whoosh",
+   "gain_db": -3,
+   "cue": "whip transition @63.5"
+  },
+  {
+   "at_s": 64.2,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "subscribe block"
+  },
+  {
+   "at_s": 65.75,
+   "sfx_id": "mouse-click",
+   "gain_db": -5,
+   "cue": "subscribe click"
+  },
+  {
+   "at_s": 65.81,
+   "sfx_id": "ding",
+   "gain_db": -15,
+   "cue": "bell"
+  },
+  {
+   "at_s": 67.55,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "likes card"
+  },
+  {
+   "at_s": 67.71,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 67.882,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.053,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.225,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.397,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.568,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.74,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 68.912,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 69.083,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 69.255,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 69.427,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 69.598,
+   "sfx_id": "tick",
+   "gain_db": -13,
+   "cue": "likes count-up",
+   "optional": true
+  },
+  {
+   "at_s": 72.76,
+   "sfx_id": "unlock",
+   "gain_db": -11,
+   "cue": "unlock: client-projects tutorial"
+  },
+  {
+   "at_s": 76.63,
+   "sfx_id": "impact",
+   "gain_db": -9,
+   "cue": "LET'S HIT IT"
+  },
+  {
+   "at_s": 76.65,
+   "sfx_id": "sparkle",
+   "gain_db": -15,
+   "cue": "confetti"
+  },
+  {
+   "at_s": 77.503,
+   "sfx_id": "whoosh",
+   "gain_db": -3,
+   "cue": "whip transition @77.6833"
+  },
+  {
+   "at_s": 78.7,
+   "sfx_id": "riser",
+   "gain_db": -12,
+   "cue": "build into roadmap",
+   "optional": true
+  },
+  {
+   "at_s": 79.9,
+   "sfx_id": "whoosh",
+   "gain_db": -5,
+   "cue": "roadmap split-screen in"
+  },
+  {
+   "at_s": 82.64,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 1"
+  },
+  {
+   "at_s": 85.62,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 2"
+  },
+  {
+   "at_s": 90.32,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 3"
+  },
+  {
+   "at_s": 94.53,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 4"
+  },
+  {
+   "at_s": 99.01,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 5"
+  },
+  {
+   "at_s": 103.33,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 6"
+  },
+  {
+   "at_s": 106.56,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 7"
+  },
+  {
+   "at_s": 112.39,
+   "sfx_id": "pop",
+   "gain_db": -9,
+   "cue": "roadmap part 8"
+  },
+  {
+   "at_s": 114.95,
+   "sfx_id": "whoosh",
+   "gain_db": -6,
+   "cue": "roadmap out"
+  },
+  {
+   "at_s": 117.4,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "every-part card"
+  },
+  {
+   "at_s": 121.85,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "resources card"
+  },
+  {
+   "at_s": 122.0,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "resources card lands"
+  },
+  {
+   "at_s": 127.7,
+   "sfx_id": "ping",
+   "gain_db": -10,
+   "cue": "WhatsApp community card"
+  },
+  {
+   "at_s": 131.57,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "WhatsApp chip 1"
+  },
+  {
+   "at_s": 134.16,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "WhatsApp chip 2"
+  },
+  {
+   "at_s": 138.05,
+   "sfx_id": "pop-small",
+   "gain_db": -13,
+   "cue": "WhatsApp chip 3"
+  },
+  {
+   "at_s": 139.137,
+   "sfx_id": "whoosh",
+   "gain_db": -3,
+   "cue": "whip transition @139.3167"
+  },
+  {
+   "at_s": 140.9,
+   "sfx_id": "pop",
+   "gain_db": -8,
+   "cue": "next up card"
+  },
+  {
+   "at_s": 142.55,
+   "sfx_id": "impact",
+   "gain_db": -9,
+   "cue": "end card"
+  },
+  {
+   "at_s": 142.6,
+   "sfx_id": "shimmer",
+   "gain_db": -12,
+   "cue": "end card swell"
+  }
+ ]
+}
